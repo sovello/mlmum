@@ -1,2 +1,2 @@
-# mlmum
-Machine Learning - Maharishi University of Management
+# BackProp
+Toy Application of BackProp to classify planes as Bomber or Fighter
